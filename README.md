@@ -38,5 +38,5 @@ This project utilizes AI cameras to enhance safety in school zones by controllin
 - Switched from ESP32-CAM to HuskyLens Pro for improved recognition and offline functionality
 - Resolved system instability by using two Arduino boards instead of one
 
-## Creator
-Kim Do-young
+## Contact
+For more information or collaboration proposals, please contact [felixkim0719@gmail.com].
