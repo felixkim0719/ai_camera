@@ -2,6 +2,7 @@
 
 ## Overview
 This project utilizes AI cameras to enhance safety in school zones by controlling traffic signals and pedestrian barriers.
+![Instant noodle water level sensor device for the visually impaired](https://raw.githubusercontent.com/felixkim0719/ai_camera/main/public/picture.jpg)
 
 ## Key Features
 1. AI Camera-based Central Line Traffic Light Control
